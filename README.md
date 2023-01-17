@@ -1,2 +1,2 @@
 # Maze-Runner
-The program to generate and solve mases.
+The program to generate and solve mazes.
